@@ -1,3 +1,4 @@
+require 'pry'
 def base_hash
   
   hash = 
@@ -91,3 +92,23 @@ def monopoly_with_fourth_tier
   
 
 end
+
+my_hash = {
+  "raffy" => "cool"
+  "toys_array =>" ["ball", "bone", "squeaky top"],
+  :water => true,
+  :nice_weather = > 'sun and more sun'
+}
+
+binding.pry
+
+
+
+
+
+
+
+
+
+
+
